@@ -11,7 +11,7 @@ from agents.booking_agent import (
     generate_campervan_links,
     generate_camping_links,
 )
-from agents.vision_parser import (
+from vision.vision_parser import (
     parse_flight_screenshot,
     parse_hotel_screenshot,
     parse_car_screenshot,
